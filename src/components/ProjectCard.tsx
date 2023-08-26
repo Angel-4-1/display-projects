@@ -31,6 +31,8 @@ const ProjectCard: FC<ProjectCardProps> = ({
     <Card.Img variant="top" src={imageUrl} style={{
       width: '200px',
       height: 'auto',
+      marginTop: '10px',
+      borderRadius: '5px'
     }}/>
 
     <Card.Body>
