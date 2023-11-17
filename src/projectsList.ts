@@ -5,6 +5,13 @@ export const PROJECTS_LIST = [
     projects: [
       {
         id: 0,
+        title: 'Room Builder',
+        linkUrl: 'https://angel-4-1.github.io/room-builder/',
+        description: 'Create a room',
+        imageUrl: 'logo512.png'
+      },
+      {
+        id: 1,
         title: 'Character movement',
         linkUrl: 'https://angel-4-1.github.io/CharacterMovement',
         description: 'Character game controller',
